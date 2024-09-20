@@ -3,19 +3,18 @@
     {
       "id": 1,
       "title": "Интернет-магазин Ситилинк",
-      "description":"Специальные предложения от интернет-магазина Ситилинк выгодное предложение",
-      "end_date":"1721446757",
-      
-      "banner":"https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
+      "description": "Специальные предложения от интернет-магазина Ситилинк выгодное предложение",
+      "end_date" :"1721446757",
+      "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
     }
    
   ],
   "profile": {
     "id":1000,
     "first_name": "Ivan",
-    "last_name":"Ivanov",
-    "middle_name":"Ivanovich",
-    "birthday":"1721446757",
-    "tarif_id":10
+    "last_name": "Ivanov",
+    "middle_name": "Ivanovich",
+    "birthday": "1721446757",
+    "tarif_id": 1
   }
 }
