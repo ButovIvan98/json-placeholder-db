@@ -1,14 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    }
-  ],
   "promocodes": [
     {
       "id": 1,
       "title": "123"
+    },
+    {
+      "id": 2,
+      "title": "1231231231"
     }
   ]
 }
