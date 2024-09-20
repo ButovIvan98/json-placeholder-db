@@ -11,11 +11,11 @@
     }
   ],
   "profile": {
-      "id": 1000,
-      "first_name": "Ivan",
-      "last_name": "Ivanov",
-      "middle_name": "Ivanovich",
-      "birthday": "1721446757",
-      "tarif_id": 1,
+    "id": 1000,
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "middle_name": "Ivanovich",
+    "birthday": "1721446757",
+    "tarif_id": 1,
   }
 }
